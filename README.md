@@ -64,11 +64,11 @@ console.log(fixed); // Corrected number
 
 1. Clone or download this repo.
 2. Make sure [Node.js](https://nodejs.org/) is installed.
-3. Create a file like `index.js` and paste the functions.
+3. Create a file like `script.js` and paste the functions.
 4. Run using:
 
 ```bash
-node index.js
+node script.js
 ```
 
 ---
